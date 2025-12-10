@@ -1,2 +1,6 @@
 Name: Paras Chauhan
+<<<<<<< HEAD
 Roll No: 12345
+=======
+Roll: XYZ
+>>>>>>> d8afcc274db65534f6fa74cbc28e8a7e625e4eb7
